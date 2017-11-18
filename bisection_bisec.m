@@ -1,4 +1,6 @@
 %% Visualisierung Bisektion
+% this is with print 
+
 clear all; close all; clc
 %% numerics
 nx=8;ny=8;nz=8;
